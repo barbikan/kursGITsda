@@ -1,2 +1,4 @@
 Zmiana w pliku.
 Jeszcze inna wersja pliku 
+
+Dodana nowa krejzi funkcjonalność
